@@ -1,0 +1,6 @@
+opencv-python
+mediapipe==0.10.14
+numpy<2
+pygame
+PyOpenGL
+PyOpenGL_accelerate
